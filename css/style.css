@@ -1,0 +1,9 @@
+
+.my_wrapper{
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.my_custom-bg{
+    background-color: rgb(134, 0, 134);
+}
